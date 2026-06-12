@@ -358,6 +358,11 @@ export async function customFetch<T = unknown>(
     }
   }
 
+  const localToken = typeof window !== 'undefined' ? localStorage.getItem('cem_token') : null;
+  if (localToken && !headers.has("authorization")) {
+    headers.set("authorization", `Bearer ${localToken}`);
+  }
+
   const requestInfo = { method, url: resolveUrl(input) };
 
   const response = await fetch(input, { ...init, method, headers });
