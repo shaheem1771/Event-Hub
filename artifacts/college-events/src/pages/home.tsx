@@ -30,14 +30,14 @@ export default function Home() {
         <div className="container relative z-10 mx-auto px-4 max-w-5xl text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium mb-6">
             <Sparkles className="w-4 h-4" />
-            Your Campus Life, Amplified
+            Your LBSCEK Life, Amplified
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-foreground mb-6">
             Discover What's <br className="hidden md:block" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">Happening Next</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
-            Find the best events on campus, connect with peers, and make the most of your college experience.
+            Find the best events at LBSCEK, connect with peers, and make the most of your college experience.
           </p>
           
           {/* Search Bar */}

@@ -77,7 +77,7 @@ export default function AdminDashboard() {
               </div>
               <h1 className="text-3xl font-bold tracking-tight">Dashboard</h1>
             </div>
-            <p className="text-muted-foreground">Overview of campus event activity</p>
+            <p className="text-muted-foreground">Overview of LBSCEK event activity</p>
           </div>
           <Link href="/admin/events/new">
             <Button className="gap-2 shadow-sm">

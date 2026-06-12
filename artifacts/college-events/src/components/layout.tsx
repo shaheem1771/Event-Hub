@@ -16,7 +16,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
             <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center text-primary-foreground">
               <Calendar className="w-5 h-5" />
             </div>
-            CampusEvents
+            LBSCEK Event Hub
           </Link>
 
           <nav className="flex items-center gap-6">
@@ -68,7 +68,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </Link>
                 <Link href="/register">
                   <Button className="rounded-full px-6 font-semibold shadow-sm hover:shadow-md transition-all">
-                    Join Campus
+                    Join Hub
                   </Button>
                 </Link>
               </div>

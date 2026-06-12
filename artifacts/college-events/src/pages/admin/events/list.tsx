@@ -84,7 +84,7 @@ export default function AdminEventsList() {
                 </div>
                 <h1 className="text-3xl font-bold tracking-tight">Manage Events</h1>
               </div>
-              <p className="text-muted-foreground">View, edit, and manage all campus events</p>
+              <p className="text-muted-foreground">View, edit, and manage all LBSCEK events</p>
             </div>
             <Link href="/admin/events/new">
               <Button className="gap-2">

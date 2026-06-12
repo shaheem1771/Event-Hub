@@ -85,7 +85,7 @@ export default function Register() {
           <div className="w-12 h-12 rounded-xl bg-primary flex items-center justify-center text-primary-foreground mb-4 shadow-lg shadow-primary/20">
             <Calendar className="w-6 h-6" />
           </div>
-          <h1 className="text-3xl font-bold tracking-tight text-center">Join CampusEvents</h1>
+          <h1 className="text-3xl font-bold tracking-tight text-center">Join LBSCEK Event Hub</h1>
           <p className="text-muted-foreground mt-2 text-center">Create an account to discover and manage events</p>
         </div>
 
