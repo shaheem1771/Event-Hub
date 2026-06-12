@@ -264,9 +264,8 @@ export default function EventDetail() {
                         </div>
                       </div>
                       <Button 
-                        variant="destructive" 
-                        className="w-full h-12" 
                         variant="outline"
+                        className="w-full h-12" 
                         onClick={handleUnregister}
                         disabled={unregisterMut.isPending}
                       >
