@@ -64,6 +64,21 @@ https://github.com/shaheem1771/Event-Hub
 - GitHub
 
 ---
+## Screenshots
+
+### Homepage
+
+![Homepage](IMG_2671.jpeg)
+
+### Login Page
+
+![Login](IMG_2672.jpeg)
+
+### Registration Page
+
+![Registration](IMG_2673.jpeg)
+
+---
 
 ## Project Structure
 
