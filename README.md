@@ -136,7 +136,7 @@ The platform supports:
 - Admin Login
 - JWT Authentication
 - Password Hashing using bcrypt
-- Protected Routes
+- Protected Routes.
 
 ---
 
