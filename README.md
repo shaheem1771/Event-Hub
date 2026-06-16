@@ -76,7 +76,7 @@ https://github.com/shaheem1771/Event-Hub
 
 ### Registration Page
 
-![Registration](IMG_2673.jpeg)
+[Registration](IMG_2673.jpeg)
 
 ---
 
