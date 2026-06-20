@@ -38,7 +38,7 @@ https://github.com/shaheem1771/Event-Hub
 - Real-Time Data Management
 - Responsive UI Design
 
----
+----
 
 ## Tech Stack
 
