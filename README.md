@@ -14,7 +14,7 @@ Live Website: https://event-hub-- shaheem1771.replit.app
 
 ## Features
 
-### Student Features
+ ### Student Features
 - Student Registration & Login
 - Browse Upcoming Events
 - Search and Filter Events
