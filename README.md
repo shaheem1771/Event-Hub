@@ -4,7 +4,7 @@ A modern full-stack event management platform designed for colleges and universi
 
 ## Live Demo
 
-Live Website: https://event-hub--shaheem1771.replit.app
+Live Website: https://event-hub-- shaheem1771.replit.app
 
 ## GitHub Repository
 
