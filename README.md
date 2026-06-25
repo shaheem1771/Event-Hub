@@ -8,7 +8,7 @@ Live Website: https://event-hub-- shaheem1771.replit.app
 
 ## GitHub Repository
 
-https://github.com/shaheem1771/Event-Hub
+ https://github.com/shaheem1771/Event-Hub
 
 ---
 
