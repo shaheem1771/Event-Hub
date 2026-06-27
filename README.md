@@ -1,6 +1,6 @@
 # Campus Event Hub
 
-A modern full-stack event management platform designed for colleges and universities. The platform enables students to discover, register for, and manage campus events while providing administrators with tools to create, organize,optimize and monitor event activities.
+A modern full-stack event management platform designed for colleges and universities. The platform enables students to discover, register  for, and manage campus events while providing administrators with tools to create, organize,optimize and monitor event activities.
 
 ## Live Demo
 
